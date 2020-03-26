@@ -3,3 +3,5 @@ A little project using an esp 32 by witch you can make a  vault. We use a rotary
 
 The servo we use is the sg90.
 The rotary encoder is the ky 040
+Demo Link:
+https://www.youtube.com/watch?v=xCLCOpB5yDc
